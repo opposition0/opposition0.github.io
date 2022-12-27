@@ -1,0 +1,33 @@
+<html>
+    <head>
+        <title>jows</title>
+    </head>
+    <body style="background-color:black;">
+        <h1 style="color:white;">Welcome to jows</h1>
+        <hr>
+        <h2 style="color:white;">jows</h2>
+        <b>jows</b>
+        <mark style="color:white;">jows</mark>
+        <h5 style="color:white;">jows</h5>
+        <h6 style="color:white;">jows</h6>
+        <!--comment-->
+        <p style="color:white;">Lorem ipsum dolor sit jows consectetur adipisicing elit.</p> 
+        <br>
+            <p style="color:white;">veritatis blanditiis similique nesciunt jows deleniti modi soluta rem. Omnis sed jows &nbsp &nbsp
+                 &nbsp &nbsp &nbsp voluptas et quibusdam dolorem tempora numquam fugit unde vel!</p>
+                 <br>
+            <a href="https://www.youtube.com/watch?v=fOx_dw8lJhg" style="color:white;">𝐅𝐢𝐧𝐝 𝐦𝐞 𝐅𝐢𝐧𝐝 𝐦𝐞 𝐅𝐢𝐧𝐝 𝐦𝐞 𝐅𝐢𝐧𝐝 𝐦𝐞</a>
+            <br>
+            <br>
+            <br>
+            <a href="Why.txt" download="whathaveyoudone.txt" target="_blank" style="color:white;">You did it</a>
+            <br><br>
+            <img src = "file:///c:/Users/Lenovo/Documents/New%20folder%20(2)/WHY.jpeg" height = 690 width = 1000> <br><br>
+            <img src = "retroo.jpeg" height = 250 width = 690><br><br>  
+            <img src = "scarrr.png" height = 250 width = 250><br><br>
+            <img src = "deMeNtia.jpeg" height = 690 width = 690>
+            <audio controls>
+                <source src="reparationsslow.mp3">
+            </audio>
+    </body>
+</html>
