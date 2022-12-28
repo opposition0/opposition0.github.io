@@ -26,7 +26,7 @@
             <img src = "retroo.jpeg" height = 250 width = 690><br><br>  
             <img src = "scarrr.png" height = 250 width = 250><br><br>
             <img src = "deMeNtia.jpeg" height = 690 width = 690>
-            <audio controls>
+            <audio controls autoplay>
                 <source src="reparationsslow.mp3">
             </audio>
     </body>
